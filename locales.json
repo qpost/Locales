@@ -1,0 +1,172 @@
+[
+	{
+		"code": "af",
+		"name": "Afrikaans",
+		"localizedName": ""
+	},
+	{
+		"code": "ar",
+		"name": "Arabic",
+		"localizedName": ""
+	},
+	{
+		"code": "bs",
+		"name": "Bosnian",
+		"localizedName": ""
+	},
+	{
+		"code": "bg",
+		"name": "Bulgarian",
+		"localizedName": ""
+	},
+	{
+		"code": "my",
+		"name": "Burmese",
+		"localizedName": ""
+	},
+	{
+		"code": "ca",
+		"name": "Catalan",
+		"localizedName": ""
+	},
+	{
+		"code": "zh-CN",
+		"name": "Chinese (Simplified)",
+		"localizedName": ""
+	},
+	{
+		"code": "zh-TW",
+		"name": "Chinese (Traditional)",
+		"localizedName": ""
+	},
+	{
+		"code": "hr",
+		"name": "Croatian",
+		"localizedName": ""
+	},
+	{
+		"code": "cs",
+		"name": "Czech",
+		"localizedName": ""
+	},
+	{
+		"code": "da",
+		"name": "Danish",
+		"localizedName": ""
+	},
+	{
+		"code": "nl",
+		"name": "Dutch",
+		"localizedName": ""
+	},
+	{
+		"code": "en",
+		"name": "English",
+		"localizedName": "English"
+	},
+	{
+		"code": "fil",
+		"name": "Filipino",
+		"localizedName": ""
+	},
+	{
+		"code": "fi",
+		"name": "Finnish",
+		"localizedName": ""
+	},
+	{
+		"code": "fr",
+		"name": "French",
+		"localizedName": ""
+	},
+	{
+		"code": "de",
+		"name": "German",
+		"localizedName": "Deutsch"
+	},
+	{
+		"code": "el",
+		"name": "Greek",
+		"localizedName": ""
+	},
+	{
+		"code": "hi",
+		"name": "Hindi",
+		"localizedName": ""
+	},
+	{
+		"code": "hu",
+		"name": "Hungarian",
+		"localizedName": ""
+	},
+	{
+		"code": "it",
+		"name": "Italian",
+		"localizedName": ""
+	},
+	{
+		"code": "ja",
+		"name": "Japanese",
+		"localizedName": ""
+	},
+	{
+		"code": "ko",
+		"name": "Korean",
+		"localizedName": ""
+	},
+	{
+		"code": "pl",
+		"name": "Polish",
+		"localizedName": ""
+	},
+	{
+		"code": "pt-PT",
+		"name": "Portuguese",
+		"localizedName": ""
+	},
+	{
+		"code": "pt-BR",
+		"name": "Portuguese (Brazil)",
+		"localizedName": ""
+	},
+	{
+		"code": "ro",
+		"name": "Romanian",
+		"localizedName": ""
+	},
+	{
+		"code": "ru",
+		"name": "Russian",
+		"localizedName": ""
+	},
+	{
+		"code": "es-ES",
+		"name": "Spanish",
+		"localizedName": ""
+	},
+	{
+		"code": "sv-SE",
+		"name": "Swedish",
+		"localizedName": ""
+	},
+	{
+		"code": "th",
+		"name": "Thai",
+		"localizedName": ""
+	},
+	{
+		"code": "tr",
+		"name": "Turkish",
+		"localizedName": ""
+	},
+	{
+		"code": "uk",
+		"name": "Ukranian",
+		"localizedName": ""
+	},
+	{
+		"code": "vi",
+		"name": "Vietnamese",
+		"localizedName": ""
+	}
+]
