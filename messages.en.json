@@ -11,7 +11,7 @@
     "avatarSelector.upload": "Upload",
     "birthdays.headline": "Upcoming birthdays",
     "birthdays.today": "Today",
-    "button.cancel": "button.cancel",
+    "button.cancel": "Cancel",
     "defaultDescription": "A social microblogging network that helps you share your thoughts online, protected by freedom of speech.",
     "defaultTitle": "The open-source Twitter alternative - qpost",
     "entryList.empty": "No posts found.",
@@ -164,6 +164,6 @@
     "suggestedUsers.headline": "Suggested",
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
-    "verified.description": "This account has has been confirmed as an authentic page for this public figure, media company or brand.",
+    "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
     "verifyEmail.headline": "Verify your email address"
 }
