@@ -7,27 +7,27 @@
 	{
 		"code": "ar",
 		"name": "Arabic",
-		"localizedName": ""
+		"localizedName": "لعربية"
 	},
 	{
 		"code": "bs",
 		"name": "Bosnian",
-		"localizedName": ""
+		"localizedName": "bosanski"
 	},
 	{
 		"code": "bg",
 		"name": "Bulgarian",
-		"localizedName": ""
+		"localizedName": "български"
 	},
 	{
 		"code": "my",
 		"name": "Burmese",
-		"localizedName": ""
+		"localizedName": "မြန်မာ"
 	},
 	{
 		"code": "ca",
 		"name": "Catalan",
-		"localizedName": ""
+		"localizedName": "català"
 	},
 	{
 		"code": "zh-CN",
@@ -42,22 +42,22 @@
 	{
 		"code": "hr",
 		"name": "Croatian",
-		"localizedName": ""
+		"localizedName": "hrvatski"
 	},
 	{
 		"code": "cs",
 		"name": "Czech",
-		"localizedName": ""
+		"localizedName": "čeština"
 	},
 	{
 		"code": "da",
 		"name": "Danish",
-		"localizedName": ""
+		"localizedName": "dansk"
 	},
 	{
 		"code": "nl",
 		"name": "Dutch",
-		"localizedName": ""
+		"localizedName": "Nederlands"
 	},
 	{
 		"code": "en",
@@ -67,17 +67,17 @@
 	{
 		"code": "fil",
 		"name": "Filipino",
-		"localizedName": ""
+		"localizedName": "Tagalog"
 	},
 	{
 		"code": "fi",
 		"name": "Finnish",
-		"localizedName": ""
+		"localizedName": "suomi"
 	},
 	{
 		"code": "fr",
 		"name": "French",
-		"localizedName": ""
+		"localizedName": "français"
 	},
 	{
 		"code": "de",
@@ -87,37 +87,37 @@
 	{
 		"code": "el",
 		"name": "Greek",
-		"localizedName": ""
+		"localizedName": "Ελληνικά"
 	},
 	{
 		"code": "hi",
 		"name": "Hindi",
-		"localizedName": ""
+		"localizedName": "हिन्दी"
 	},
 	{
 		"code": "hu",
 		"name": "Hungarian",
-		"localizedName": ""
+		"localizedName": "magyar"
 	},
 	{
 		"code": "it",
 		"name": "Italian",
-		"localizedName": ""
+		"localizedName": "italiano"
 	},
 	{
 		"code": "ja",
 		"name": "Japanese",
-		"localizedName": ""
+		"localizedName": "日本語"
 	},
 	{
 		"code": "ko",
 		"name": "Korean",
-		"localizedName": ""
+		"localizedName": "한국어"
 	},
 	{
 		"code": "pl",
 		"name": "Polish",
-		"localizedName": ""
+		"localizedName": "polski"
 	},
 	{
 		"code": "pt-PT",
@@ -132,12 +132,12 @@
 	{
 		"code": "ro",
 		"name": "Romanian",
-		"localizedName": ""
+		"localizedName": "română"
 	},
 	{
 		"code": "ru",
 		"name": "Russian",
-		"localizedName": ""
+		"localizedName": "русский"
 	},
 	{
 		"code": "es-ES",
@@ -152,21 +152,21 @@
 	{
 		"code": "th",
 		"name": "Thai",
-		"localizedName": ""
+		"localizedName": "ไทย"
 	},
 	{
 		"code": "tr",
 		"name": "Turkish",
-		"localizedName": ""
+		"localizedName": "Türkçe"
 	},
 	{
 		"code": "uk",
 		"name": "Ukranian",
-		"localizedName": ""
+		"localizedName": "українська"
 	},
 	{
 		"code": "vi",
 		"name": "Vietnamese",
-		"localizedName": ""
+		"localizedName": "Tiếng Việt"
 	}
 ]
