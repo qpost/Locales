@@ -238,6 +238,7 @@
     "settings.preferences.appearance.interfaceLanguage": "Interface Language",
     "settings.preferences.appearance.matureContent": "Mature content",
     "settings.preferences.appearance.matureContent.showMatureWarning": "Show a warning on mature content",
+    "settings.preferences.appearance.translationInfo": "Click here to help translate qpost on Crowdlate.",
     "settings.profile.appearance.avatar": "Avatar",
     "settings.profile.appearance.bio": "Biography",
     "settings.profile.appearance.birthday": "Birthday",
@@ -269,6 +270,5 @@
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
     "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
-    "verifyEmail.headline": "Verify your email address",
-    "settings.preferences.appearance.translationInfo": "Click here to help translate qpost on Crowdlate."
+    "verifyEmail.headline": "Verify your email address"
 }
