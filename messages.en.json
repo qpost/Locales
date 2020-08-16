@@ -270,5 +270,7 @@
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
     "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
-    "verifyEmail.headline": "Verify your email address"
+    "verifyEmail.headline": "Verify your email address",
+    "changelogModal.headline": "A new version of qpost has been released (%version%)",
+    "changelogModal.footer.text": "Click here to view all previous changelogs"
 }
