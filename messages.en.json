@@ -14,6 +14,8 @@
     "button.cancel": "Cancel",
     "button.save": "Save",
     "button.saveChanges": "Save changes",
+    "changelogModal.footer.text": "Click here to view all previous changelogs",
+    "changelogModal.headline": "A new version of qpost has been released (%version%)",
     "defaultDescription": "A social microblogging network that helps you share your thoughts online, protected by freedom of speech.",
     "defaultTitle": "The open-source Twitter alternative - qpost",
     "entryList.empty": "No posts found.",
@@ -270,7 +272,5 @@
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
     "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
-    "verifyEmail.headline": "Verify your email address",
-    "changelogModal.headline": "A new version of qpost has been released (%version%)",
-    "changelogModal.footer.text": "Click here to view all previous changelogs"
+    "verifyEmail.headline": "Verify your email address"
 }
