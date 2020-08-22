@@ -272,5 +272,6 @@
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
     "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
-    "verifyEmail.headline": "Verify your email address"
+    "verifyEmail.headline": "Verify your email address",
+    "settings.preferences.appearance.display.showChangelogs": "Show changelogs"
 }
