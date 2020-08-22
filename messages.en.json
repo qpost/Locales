@@ -236,6 +236,7 @@
     "settings.preferences.appearance.display": "Display",
     "settings.preferences.appearance.display.autoplayGifs": "Auto-play animated GIFs",
     "settings.preferences.appearance.display.nightMode": "Enable night mode",
+    "settings.preferences.appearance.display.showChangelogs": "Show changelogs",
     "settings.preferences.appearance.headline": "Appearance",
     "settings.preferences.appearance.interfaceLanguage": "Interface Language",
     "settings.preferences.appearance.matureContent": "Mature content",
@@ -272,6 +273,5 @@
     "trendingTopics.headline": "Trending topics",
     "trendingTopics.postsThisWeek": "Posts this week: %num%",
     "verified.description": "This account has been confirmed as an authentic page for this public figure, media company or brand.",
-    "verifyEmail.headline": "Verify your email address",
-    "settings.preferences.appearance.display.showChangelogs": "Show changelogs"
+    "verifyEmail.headline": "Verify your email address"
 }
