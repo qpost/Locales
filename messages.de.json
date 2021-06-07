@@ -233,6 +233,7 @@
     "settings.preferences.appearance.display": "Display-Einstellungen",
     "settings.preferences.appearance.display.autoplayGifs": "GIFs automatisch abspielen",
     "settings.preferences.appearance.display.nightMode": "Dunklen Modus aktivieren",
+    "settings.preferences.appearance.display.showChangelogs": "Versions\u00e4nderungen anzeigen",
     "settings.preferences.appearance.headline": "Anzeige",
     "settings.preferences.appearance.interfaceLanguage": "Anzeigesprache",
     "settings.preferences.appearance.matureContent": "18+ Inhalte",
